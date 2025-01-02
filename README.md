@@ -1,1 +1,1 @@
-# rpc-game
+# system-info-script
